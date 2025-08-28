@@ -1,6 +1,6 @@
 # VIP - VPT Image Preprocesor
 
-ImageJ/FIJI plugin intended for use with VPT Framework 
+ImageJ/FIJI plugin intended for use with VPT Framework
 
 ---
 This plugins' main use case is preparing multichannel confocal microscopy images, to be converted into raw multichannel stacks.
