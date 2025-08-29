@@ -1,4 +1,4 @@
-# VIP - VPT Image Preprocesor
+# VIP - VPT Image Processor
 
 ImageJ/FIJI plugin intended for use with VPT Framework
 

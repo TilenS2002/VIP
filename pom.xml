@@ -16,7 +16,7 @@
 	<artifactId>VIP</artifactId>
 	<version>1</version>
 
-	<name>VPT Image Preprocesor</name>
+	<name>VPT Image Processor</name>
 	<description>ImageJ plugin intended for use with VPT Framework</description>
 	<url>https://github.com/TilenS2002/VIP/tree/main</url>
 	<inceptionYear>2025</inceptionYear>
