@@ -74,7 +74,7 @@
 
 	<properties>
 		<package-name>eu.plugin.imagej</package-name>
-		<main-class>eu.plugin.imagej.Importer</main-class>
+		<main-class>eu.plugin.imagej.Processor</main-class>
 		<license.licenseName>cc0</license.licenseName>
 		<license.copyrightOwners>LGM</license.copyrightOwners>
 	</properties>

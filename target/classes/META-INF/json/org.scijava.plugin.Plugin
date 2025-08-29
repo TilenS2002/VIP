@@ -1,1 +1,1 @@
-{"class":"eu.plugin.imagej.Importer","values":{"menuPath":"Plugins>VPT Image Processing","type":"org.scijava.command.Command"}}
+{"class":"eu.plugin.imagej.Processor","values":{"menuPath":"Plugins>VPT Image Processing","type":"org.scijava.command.Command"}}{"class":"eu.plugin.imagej.Importer","values":{"menuPath":"Plugins>VPT Image Processing","type":"org.scijava.command.Command"}}

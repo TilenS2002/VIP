@@ -34,7 +34,7 @@ import java.util.List;
  * </p>
  */
 @Plugin(type = Command.class, menuPath = "Plugins>VPT Image Processing")
-public class Importer<T extends RealType<T>> implements Command {
+public class Processor<T extends RealType<T>> implements Command {
     //
     // Feel free to add more parameters here...
     //
@@ -94,7 +94,7 @@ public class Importer<T extends RealType<T>> implements Command {
             ij.ui().show(dataset);
 
             // invoke the plugin
-            ij.command().run(Importer.class, true);
+            ij.command().run(Processor.class, true);
         }
     }
 }
